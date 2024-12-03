@@ -7,19 +7,19 @@
     >
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/public/public1.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/public/public2.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/public/public3.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/public/public4.jpg"
+        src=""
       />
     </div>
 

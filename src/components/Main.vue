@@ -234,7 +234,7 @@ export default {
           title: "범식❤️혜정, 결혼식에 초대합니다",
           description: "2023년 03월 19일 오전 11시, 더베뉴지 아트홀",
           imageUrl:
-            "https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/16.jpg",
+            "",
           link: {
             mobileWebUrl: "http://www.sikhyeworld.com",
             webUrl: "http://www.sikhyeworld.com",

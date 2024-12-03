@@ -58,6 +58,6 @@ module.exports = {
     serif: ["Merriweather", "serif"],
   },
   backgroundImage: {
-    logo: "url('./assets/logo1.PNG')",
+    logo: "url('./assets/logo2.PNG')",
   },
 };

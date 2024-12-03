@@ -7,43 +7,43 @@
     >
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/6875.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117+o1_bs_w_6785-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117 o1_bs_w_7239-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117+o1_bs_w_6310-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117+o1_bs_w_6375-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117+o1_bs_w_6450-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/221117+o1_bs_w_6637-.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/once/12.png"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/once/17-10.jpg"
+        src=""
       />
       <img
         class="snap-always snap-center shrink-0 rounded-lg scroll-m-6"
-        src="https://sikhyeworld.s3.ap-northeast-2.amazonaws.com/static/once/20.jpg"
+        src=""
       />
     </div>
 
